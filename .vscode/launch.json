@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "SortSelection",
+            "request": "launch",
+            "mainClass": "SortSelection",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListExample",
+            "request": "launch",
+            "mainClass": "LinkedListExample",
+            "projectName": "DS using JAVA_bfcbf047"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "DS using JAVA_bfcbf047"
+        },
+        {
+            "type": "java",
+            "name": "LSB",
+            "request": "launch",
+            "mainClass": "LSB",
+            "projectName": "DS using JAVA_bfcbf047"
+        },
+        {
+            "type": "java",
+            "name": "IthValue",
+            "request": "launch",
+            "mainClass": "IthValue",
+            "projectName": "DS using JAVA_bfcbf047"
+        },
+        {
+            "type": "java",
+            "name": "FindingUnique",
+            "request": "launch",
+            "mainClass": "FindingUnique",
+            "projectName": "DS using JAVA_bfcbf047"
+        },
+        {
+            "type": "java",
+            "name": "EvenOddUsingAND",
+            "request": "launch",
+            "mainClass": "EvenOddUsingAND",
+            "projectName": "DS using JAVA_bfcbf047"
+        },
+        {
+            "type": "java",
+            "name": "fibbonachi",
+            "request": "launch",
+            "mainClass": "fibbonachi",
+            "projectName": "DS using JAVA_bfcbf047"
+        },
+        {
+            "type": "java",
+            "name": "fibbonachi$fibbonachi",
+            "request": "launch",
+            "mainClass": "fibbonachi$fibbonachi",
+            "projectName": "DS using JAVA_bfcbf047"
+        },
+        {
+            "type": "java",
+            "name": "pttern",
+            "request": "launch",
+            "mainClass": "pttern",
+            "projectName": "DS using JAVA_bfcbf047"
+        },
+        {
+            "type": "java",
+            "name": "Dutch",
+            "request": "launch",
+            "mainClass": "Dutch",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "Kadanes",
+            "request": "launch",
+            "mainClass": "Kadanes",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "Count_pairs_sum",
+            "request": "launch",
+            "mainClass": "Count_pairs_sum",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "rogh",
+            "request": "launch",
+            "mainClass": "rogh",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "SwapcharactersString",
+            "request": "launch",
+            "mainClass": "SwapcharactersString",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "FreqOfChar",
+            "request": "launch",
+            "mainClass": "FreqOfChar",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "rough",
+            "request": "launch",
+            "mainClass": "rough",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "SearchingOperationString",
+            "request": "launch",
+            "mainClass": "SearchingOperationString",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "PushZero",
+            "request": "launch",
+            "mainClass": "PushZero",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "String_q",
+            "request": "launch",
+            "mainClass": "String_q",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "FindSecondLargest",
+            "request": "launch",
+            "mainClass": "FindSecondLargest",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "ThreeLargestElement",
+            "request": "launch",
+            "mainClass": "ThreeLargestElement",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "Insert_delete_unsortedArray",
+            "request": "launch",
+            "mainClass": "Insert_delete_unsortedArray",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "ArraySwap",
+            "request": "launch",
+            "mainClass": "ArraySwap",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "Rotation",
+            "request": "launch",
+            "mainClass": "Rotation",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "max_min_Array",
+            "request": "launch",
+            "mainClass": "max_min_Array",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "reversingArray",
+            "request": "launch",
+            "mainClass": "reversingArray",
+            "projectName": "DS using JAVA_adeafb21"
+        }
+    ]
+}
