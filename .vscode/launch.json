@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MacroProcessor",
+            "request": "launch",
+            "mainClass": "MacroProcessor",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "Macro",
+            "request": "launch",
+            "mainClass": "Macro",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "mergerSort",
+            "request": "launch",
+            "mainClass": "mergerSort",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "LCArrPermutation",
+            "request": "launch",
+            "mainClass": "LCArrPermutation",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
             "name": "LinearSearch",
             "request": "launch",
             "mainClass": "LinearSearch",
