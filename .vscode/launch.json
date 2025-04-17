@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RightRotate",
+            "request": "launch",
+            "mainClass": "RightRotate",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
+            "name": "LeftRotate",
+            "request": "launch",
+            "mainClass": "LeftRotate",
+            "projectName": "DS using JAVA_adeafb21"
+        },
+        {
+            "type": "java",
             "name": "MacroProcessor",
             "request": "launch",
             "mainClass": "MacroProcessor",
